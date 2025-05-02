@@ -58,8 +58,9 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=awaiskhan20&show_icons=true&theme=radical&count_private=true" height="170" alt="GitHub Stats" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awaiskhan20&layout=compact&theme=radical" height="170" alt="Top Languages" />
 </div>
 
