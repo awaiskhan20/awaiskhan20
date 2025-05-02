@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://your-banner-image-link.com/banner.png" alt="Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Awais Khan</h1>
 
 <h3 align="center">A Passionate WordPress & Frontend Developer from Pakistan 🇵🇰</h3>
