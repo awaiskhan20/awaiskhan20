@@ -1,61 +1,76 @@
-<h1 align="center">👋 Hi, I'm Awais Khan</h1>
-<h3 align="center">🚀 WordPress & Frontend Developer | Building Responsive, Scalable Web Experiences</h3>
+<h1 align="center">Hi 👋, I'm Awais Khan</h1>
+
+<h3 align="center">A Passionate WordPress & Frontend Developer from Pakistan 🇵🇰</h3>
 
 <p align="center">
-  <a href="https://github.com/awaiskhan20"><img src="https://img.shields.io/github/followers/awaiskhan20?label=Follow&style=social"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-%F0%9F%93%A7-blue?style=flat-square"></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-%F0%9F%8F%A1-2ea44f?style=flat-square"></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=WordPress+Specialist;Frontend+Developer;WooCommerce+Expert;Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### 👨‍💻 About Me
 
-- 🛠️ Passionate about **WordPress** and **frontend development**
-- 🌱 Learning **React** & advanced **plugin customization**
-- ⚙️ Focused on performance, accessibility & UX
-- 📫 Reach me: your.email@example.com
+- 🔧 I specialize in **WordPress development**, including custom themes, plugins, and WooCommerce customization.
+- 🧠 I'm passionate about clean code, optimized performance, and responsive UI/UX.
+- 🌱 Currently exploring more on **Headless WordPress**, **React**, and **Gutenberg Block Development**.
+- 🛠️ Tools I work with daily: WordPress, ACF, Elementor, JavaScript, Tailwind, PHP.
+- ✍️ I regularly build client websites that convert and perform well.
+- 🎯 Goal for 2025: Contribute to open-source and build my own WordPress plugin.
 
 ---
 
-### 💼 Tech Stack
+### 🛠️ Tech Stack
 
-<div align="center" style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 15px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="TailwindCSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="45" alt="WordPress" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="45" alt="TailwindCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code" />
 </div>
+
+---
+
+### 🧰 Tools & Platforms
+
+- 🧩 WordPress, WooCommerce, ACF, Elementor  
+- 🎨 Figma, Adobe XD (for UI design collaboration)  
+- 💻 LocalWP, XAMPP, cPanel  
+- 🛠️ Git, GitHub, FTP, phpMyAdmin  
+- 🔍 SEO optimization & performance tuning  
 
 ---
 
 ### 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=awaiskhan20&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awaiskhan20&layout=compact&theme=tokyonight" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=awaiskhan20&show_icons=true&theme=radical&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awaiskhan20&layout=compact&theme=radical" height="170" alt="Top Languages" />
+</div>
 
 ---
 
-### 🔗 Let's Connect
+### 🚀 Highlight Projects
 
-- 🌐 [Website](https://yourwebsite.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 📧 your.email@example.com
+- 🖥️ **Custom WooCommerce Quote Builder** — Built a request system for B2B clients using AJAX + ACF  
+- 📦 **Elementor Portfolio Theme** — Lightweight, fast-loading portfolio for creatives  
+- 🔐 **Membership Site with Paywall** — WordPress + Restrict Content Pro integration  
+- 🔄 **Data Sync with External APIs** — Integrated WordPress with CRM system using REST API
 
 ---
 
-<p align="center">⚡️ Always learning, building, and growing</p>
+### 📫 Let's Connect
+
+- 🌐 [Portfolio Website](#) — *(Add your portfolio URL here)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/awaiskhan20/)  
+- 🐦 [Twitter](https://twitter.com/) — *(If you use it)*  
+- 📧 Email: yourname@example.com
+
+---
+
+<p align="center">✨ Thanks for visiting my GitHub! ✨</p>
