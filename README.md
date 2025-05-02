@@ -77,7 +77,7 @@
 ### 📫 Let's Connect
 
 - 🌐 [Portfolio Website](#) — *(Add your portfolio URL here)*  
-- 💼 [LinkedIn](https://www.linkedin.com/in/awaiskhan20/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/awais-khan-487203308/)  
 - 📧 Email: awaiskhan.raees123@gmail.com
 
 ---
