@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Owais Khan</h1>
+<h1 align="center">Hi 👋, I'm Awais Khan</h1>
 <h3 align="center">A Passionate WordPress and Frontend Developer</h3>
 
 <p align="center">
