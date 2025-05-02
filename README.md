@@ -78,8 +78,7 @@
 
 - 🌐 [Portfolio Website](#) — *(Add your portfolio URL here)*  
 - 💼 [LinkedIn](https://www.linkedin.com/in/awaiskhan20/)  
-- 🐦 [Twitter](https://twitter.com/) — *(If you use it)*  
-- 📧 Email: yourname@example.com
+- 📧 Email: awaiskhan.raees123@gmail.com
 
 ---
 
