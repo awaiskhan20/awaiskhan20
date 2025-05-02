@@ -1,41 +1,37 @@
-<h1 align="center">Hi there 👋, I'm Awais Khan</h1>
-<h3 align="center">WordPress & Frontend Developer | Crafting Responsive and Scalable Web Experiences</h3>
-
----
+<h1 align="center">👋 Hi, I'm Awais Khan</h1>
+<h3 align="center">🚀 WordPress & Frontend Developer | Building Responsive, Scalable Web Experiences</h3>
 
 <p align="center">
-  <a href="https://github.com/awaiskhan20">
-    <img src="https://komarev.com/ghpvc/?username=awaiskhan20&style=flat-square&color=0e75b6" alt="Profile Views" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/email-contact-blue?style=flat-square" alt="Email" />
-  </a>
+  <a href="https://github.com/awaiskhan20"><img src="https://img.shields.io/github/followers/awaiskhan20?label=Follow&style=social"></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-%F0%9F%93%A7-blue?style=flat-square"></a>
+  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-%F0%9F%8F%A1-2ea44f?style=flat-square"></a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on custom WordPress themes and plugins
-- 🌱 I’m learning React and exploring Headless WordPress
-- 💬 Ask me about WordPress, HTML, CSS, JavaScript, PHP, ACF
-- 📫 How to reach me: your.email@example.com
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- 🛠️ Passionate about **WordPress** and **frontend development**
+- 🌱 Learning **React** & advanced **plugin customization**
+- ⚙️ Focused on performance, accessibility & UX
+- 📫 Reach me: your.email@example.com
 
 ---
 
-### 🛠️ Technologies & Tools
+### 💼 Tech Stack
 
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="TailwindCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+</p>
 
 ---
 
@@ -44,22 +40,22 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=awaiskhan20&show_icons=true&theme=radical" alt="Awais's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=awaiskhan20&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awaiskhan20&layout=compact&theme=radical" alt="Awais's Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awaiskhan20&layout=compact&theme=tokyonight" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 📫 Let's Connect
+### 🔗 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 🌐 [Website](https://yourwebsite.com)  
-- 📧 your.email@example.com  
+- 🌐 [Website](https://yourwebsite.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 📧 your.email@example.com
 
 ---
 
-*Thank you for visiting my profile! I'm always open to new projects, collaborations, or freelance opportunities.*
+<p align="center">⚡️ Always learning, building, and growing</p>
