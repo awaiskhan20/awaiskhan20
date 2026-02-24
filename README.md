@@ -68,11 +68,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awaiskhan20&layout=compact&theme=radical" height="170" alt="Top Languages" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=awaiskhan20&show_icons=true&theme=radical&count_private=true" height="170" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=awaiskhan20&layout=compact&theme=radical" height="170" />
-</p>
-
 
 ---
 
