@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.webp" alt="Banner" />
+  <img src="banner.webp" alt="Banner" loading="lazy" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Awais Khan</h1>
