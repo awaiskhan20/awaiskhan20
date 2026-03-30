@@ -1,91 +1,142 @@
-<p align="center">
-  <img src="banner.webp" alt="Banner" loading="lazy" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Awais Khan</h1>
-
-<h3 align="center">A Passionate WordPress & Frontend Developer from Pakistan 🇵🇰</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=WordPress+Specialist;Frontend+Developer;WooCommerce+Expert;Lifelong+Learner" alt="Typing SVG" />
-</p>
-
----
-
-### 👨‍💻 About Me
-
-- 🔧 I specialize in **WordPress development**, including custom themes, plugins, and WooCommerce customization.
-- 🧠 I'm passionate about clean code, optimized performance, and responsive UI/UX.
-- 🌱 Currently exploring more on **Headless WordPress**, **React**, and **Gutenberg Block Development**.
-- 🛠️ Tools I work with daily: WordPress, ACF, Elementor, JavaScript, Tailwind, PHP.
-- ✍️ I regularly build client websites that convert and perform well.
-- 🎯 Goal for 2025: Contribute to open-source and build my own WordPress plugin.
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="PHP" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="45" alt="WordPress" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" alt="Bootstrap" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="45" alt="TailwindCSS" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code" />
-</p>
-
-
----
-
-### 🧰 Tools & Platforms
-
-- 🧩 WordPress, WooCommerce, ACF, Elementor  
-- 🎨 Figma, Adobe XD (for UI design collaboration)  
-- 💻 LocalWP, XAMPP, cPanel  
-- 🛠️ Git, GitHub, FTP, phpMyAdmin  
-- 🔍 SEO optimization & performance tuning  
-
----
-
-### 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=awaiskhan20&show_icons=true&theme=radical&count_private=true" height="170" alt="GitHub Stats" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awaiskhan20&layout=compact&theme=radical" height="170" alt="Top Languages" />
+
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Awais%20Khan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=WordPress%20%26%20Frontend%20Developer&descAlignY=60&descAlign=50&descSize=18&descColor=a78bfa" />
+
 </div>
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=🔧+WordPress+%26+WooCommerce+Specialist;⚡+Performance-Obsessed+Frontend+Dev;🧱+Gutenberg+%26+Headless+WordPress+Explorer;🚀+Building+Websites+That+Convert)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-### 🚀 Highlight Projects
+<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif"/>
 
-- 🖥️ **Custom WooCommerce Quote Builder** — Built a request system for B2B clients using AJAX + ACF  
-- 📦 **Elementor Portfolio Theme** — Lightweight, fast-loading portfolio for creatives  
-- 🔐 **Membership Site with Paywall** — WordPress + Restrict Content Pro integration  
-- 🔄 **Data Sync with External APIs** — Integrated WordPress with CRM system using REST API
+## 🧑‍💻 &nbsp;About Me
+
+```yaml
+name: Awais Khan
+location: Pakistan 🇵🇰
+role: WordPress & Frontend Developer
+focus:
+  - Custom Theme & Plugin Development
+  - WooCommerce Customization
+  - Performance & SEO Optimization
+  - REST API Integrations
+
+currently_learning:
+  - Headless WordPress
+  - React & Next.js
+  - Gutenberg Block Development
+
+2025_goals:
+  - Contribute to Open Source
+  - Launch a WordPress Plugin
+  - Master Full-Stack WordPress
+
+status: "Always building something ⚙️"
+```
+
+<br clear="right"/>
 
 ---
 
-### 📫 Let's Connect
+## 🛠️ &nbsp;Tech Stack & Tools
 
-- 🌐 [Portfolio Website](#) — *(Add your portfolio URL here)*  
-- 💼 [LinkedIn](https://www.linkedin.com/in/awais-khan-487203308/)  
-- 📧 Email: awaiskhan.raees123@gmail.com
+<div align="center">
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### ⚙️ Backend & CMS
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
+
+</div>
 
 ---
 
-<p align="center">✨ Thanks for visiting my GitHub! ✨</p>
+## 🚀 &nbsp;Highlight Projects
+
+<div align="center">
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🛒 **Custom WooCommerce Quote Builder** | B2B request-for-quote system for wholesale clients | `WooCommerce` `AJAX` `ACF` `PHP` |
+| 🎨 **Elementor Portfolio Theme** | Lightweight, fast-loading portfolio for creative professionals | `WordPress` `Elementor` `CSS3` |
+| 🔐 **Membership Site with Paywall** | Subscription-gated content platform with payment integration | `WordPress` `Restrict Content Pro` |
+| 🔄 **CRM API Data Sync** | Real-time data bridge between WordPress & external CRM | `REST API` `PHP` `Cron Jobs` |
+
+</div>
+
+---
+
+## 📊 &nbsp;GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=awaiskhan20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awaiskhan20&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</div>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=awaiskhan20&theme=tokyonight&hide_border=true&background=0d1117" />
+</div>
+
+---
+
+## 🏆 &nbsp;GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=awaiskhan20&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🌐 &nbsp;Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/awais-khan-487203308/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awaiskhan.raees123@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/awaiskhan20)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 &nbsp;Dev Quote of the Day
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=awaiskhan20&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
+
+</div>
