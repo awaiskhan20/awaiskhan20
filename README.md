@@ -1,90 +1,91 @@
 <p align="center">
-  <img src="banner.webp" width="100%" />
+  <img src="banner.webp" alt="Banner" loading="lazy" />
 </p>
 
-<h1 align="center">👋 Hey, I'm Awais Khan</h1>
+<h1 align="center">Hi 👋, I'm Awais Khan</h1>
+
+<h3 align="center">A Passionate WordPress & Frontend Developer from Pakistan 🇵🇰</h3>
 
 <p align="center">
-  💻 WordPress Developer • ⚡ Performance Lover • 🎯 Problem Solver
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=500&lines=Crafting+High-Performance+Websites;WooCommerce+%7C+Custom+Plugins+%7C+APIs;Turning+Ideas+into+Scalable+Products" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/awais-khan-487203308/">
-    <img src="https://img.shields.io/badge/LinkedIn-Awais%20Khan-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:awaiskhan.raees123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=WordPress+Specialist;Frontend+Developer;WooCommerce+Expert;Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 About Me
+### 👨‍💻 About Me
 
-✨ I build **fast, scalable & conversion-focused websites**.
-
-- 🔧 5+ years WordPress & WooCommerce experience  
-- 🧠 Custom Themes • Plugins • API Integrations  
-- ⚡ Performance optimization & clean architecture  
-- 🎯 Focus: **Real business results, not just design**  
-- 🌱 Exploring: React & Headless WordPress  
+- 🔧 I specialize in **WordPress development**, including custom themes, plugins, and WooCommerce customization.
+- 🧠 I'm passionate about clean code, optimized performance, and responsive UI/UX.
+- 🌱 Currently exploring more on **Headless WordPress**, **React**, and **Gutenberg Block Development**.
+- 🛠️ Tools I work with daily: WordPress, ACF, Elementor, JavaScript, Tailwind, PHP.
+- ✍️ I regularly build client websites that convert and perform well.
+- 🎯 Goal for 2025: Contribute to open-source and build my own WordPress plugin.
 
 ---
 
-## 🛠️ Tech Arsenal
+### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=wordpress,php,js,html,css,tailwind,bootstrap,mysql,git,github,vscode" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="PHP" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="45" alt="WordPress" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" alt="Bootstrap" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="45" alt="TailwindCSS" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code" />
 </p>
 
----
-
-## 📊 GitHub Insights
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=awaiskhan20&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=awaiskhan20&theme=tokyonight&hide_border=true" width="48%" />
-</p>
 
 ---
 
-## 💼 What I Build
+### 🧰 Tools & Platforms
 
-🔥 **Real-world solutions, not just code**
-
-- 🛒 WooCommerce Quote Systems (B2B)
-- 🔐 Membership & Paywall Platforms  
-- 🔄 CRM & API Integrations  
-- 🎨 High-converting Elementor Websites  
-
----
-
-## 🎯 Current Focus
-
-- 🚀 Building scalable WordPress systems  
-- 🧠 Learning modern JS (React)  
-- 📦 Planning to launch my own plugin  
+- 🧩 WordPress, WooCommerce, ACF, Elementor  
+- 🎨 Figma, Adobe XD (for UI design collaboration)  
+- 💻 LocalWP, XAMPP, cPanel  
+- 🛠️ Git, GitHub, FTP, phpMyAdmin  
+- 🔍 SEO optimization & performance tuning  
 
 ---
 
-## 📫 Let’s Work Together
+### 📊 GitHub Stats
 
-<p align="center">
-  💼 Open for freelance & remote opportunities  
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=awaiskhan20&show_icons=true&theme=radical&count_private=true" height="170" alt="GitHub Stats" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awaiskhan20&layout=compact&theme=radical" height="170" alt="Top Languages" />
+</div>
 
-<p align="center">
-  <a href="mailto:awaiskhan.raees123@gmail.com">
-    <img src="https://img.shields.io/badge/Hire%20Me-Let's%20Talk-green?style=for-the-badge"/>
-  </a>
-</p>
 
 ---
 
-<p align="center">
-  ⭐ <b>"I don’t just write code — I solve problems."</b>
-</p>
+### 🚀 Highlight Projects
+
+- 🖥️ **Custom WooCommerce Quote Builder** — Built a request system for B2B clients using AJAX + ACF  
+- 📦 **Elementor Portfolio Theme** — Lightweight, fast-loading portfolio for creatives  
+- 🔐 **Membership Site with Paywall** — WordPress + Restrict Content Pro integration  
+- 🔄 **Data Sync with External APIs** — Integrated WordPress with CRM system using REST API
+
+---
+
+### 📫 Let's Connect
+
+- 🌐 [Portfolio Website](#) — *(Add your portfolio URL here)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/awais-khan-487203308/)  
+- 📧 Email: awaiskhan.raees123@gmail.com
+
+---
+
+<p align="center">✨ Thanks for visiting my GitHub! ✨</p>
