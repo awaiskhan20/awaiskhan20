@@ -4,7 +4,6 @@
 
 <br/>
 
-<!-- Social Badges -->
 <a href="https://www.linkedin.com/in/awais-khan-487203308/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -17,7 +16,6 @@
 
 <br/><br/>
 
-<!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=550&lines=5%2B+years+building+on+WordPress+%F0%9F%9B%A0%EF%B8%8F;WooCommerce+%E2%80%A2+REST+APIs+%E2%80%A2+Custom+Plugins;Performance+%26+Clean+Code+Obsessed+%E2%9A%A1;Currently+learning+Headless+WordPress+%26+React" />
 
 </div>
@@ -26,14 +24,14 @@
 
 ## 🙋‍♂️ About Me
 
-> *"I don't just build websites — I build experiences that work."*
+> I don&#39;t just build websites &mdash; I build experiences that work.
 
-- 🔧 &nbsp;**5+ years** of hands-on WordPress & WooCommerce development
-- 🧠 &nbsp;I specialize in **custom themes, plugins**, and complex **WooCommerce** stores
-- 🔌 &nbsp;Experienced in **REST API integrations** — connecting WordPress with external CRMs & services
-- ⚡ &nbsp;Obsessed with **performance, clean code**, and **responsive UI/UX**
-- 🌱 &nbsp;Currently diving deeper into **Headless WordPress**, **React**, and **Gutenberg Blocks**
-- 🎯 &nbsp;**2025 Goal:** Launch my first WordPress plugin on the official repo
+- 🔧 **5+ years** of hands-on WordPress & WooCommerce development
+- 🧠 I specialize in **custom themes, plugins**, and complex **WooCommerce** stores
+- 🔌 Experienced in **REST API integrations** — connecting WordPress with external CRMs & services
+- ⚡ Obsessed with **performance, clean code**, and **responsive UI/UX**
+- 🌱 Currently diving deeper into **Headless WordPress**, **React**, and **Gutenberg Blocks**
+- 🎯 **2025 Goal:** Launch my first WordPress plugin on the official repo
 
 ---
 
