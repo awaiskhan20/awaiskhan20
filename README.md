@@ -1,151 +1,143 @@
-```md
 <p align="center">
-  <img src="banner.webp" width="100%" alt="Awais Khan Banner" />
+  <img src="banner.webp" alt="Banner" width="100%" loading="lazy" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Awais Khan</h1>
 
-<h3 align="center">
-  💻 WordPress Developer | Frontend Developer | WooCommerce Expert 🇵🇰
-</h3>
+<h3 align="center">A Passionate WordPress & Frontend Developer from Pakistan 🇵🇰</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=650&lines=WordPress+Specialist;Frontend+Developer;WooCommerce+Expert;Building+Fast+%26+Responsive+Websites;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=WordPress+Specialist;Frontend+Developer;WooCommerce+Expert;Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/awaiskhan20">
-    <img src="https://komarev.com/ghpvc/?username=awaiskhan20&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🔧 I specialize in **WordPress development**, including custom themes, plugins, and WooCommerce customization.
+- 🧠 I'm passionate about clean code, optimized performance, and responsive UI/UX.
+- 🌱 Currently exploring more on **Headless WordPress**, **React**, and **Gutenberg Block Development**.
+- 🛠️ Tools I work with daily: WordPress, ACF, Elementor, JavaScript, Tailwind, PHP.
+- ✍️ I regularly build client websites that convert and perform well.
+- 🎯 Goal for 2025: Contribute to open-source and build my own WordPress plugin.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding" />
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="50" height="50" alt="WordPress" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="TailwindCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="50" height="50" alt="jQuery" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code" />
+</p>
+
+---
+
+### 🧰 Tools & Platforms
+
+| Icon | Tool |
+|------|------|
+| 🧩 | WordPress, WooCommerce, ACF, Elementor |
+| 🎨 | Figma, Adobe XD (for UI design collaboration) |
+| 💻 | LocalWP, XAMPP, cPanel |
+| 🛠️ | Git, GitHub, FTP, phpMyAdmin |
+| 🔍 | SEO optimization & performance tuning |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=awaiskhan20&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/streak?username=awaiskhan20&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awaiskhan20&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages" />
+</p>
+
+---
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=awaiskhan20&theme=react-dark&bg_color=0d1117&hide_border=true" width="95%" alt="Activity Graph" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=awaiskhan20&theme=radical&no-frame=true&no-bg=true&row=1&column=6" width="95%" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 🚀 Highlight Projects
+
+| | Project Description |
+|---|---|
+| 🖥️ | **Custom WooCommerce Quote Builder** — Built a request system for B2B clients using AJAX + ACF |
+| 📦 | **Elementor Portfolio Theme** — Lightweight, fast-loading portfolio for creatives |
+| 🔐 | **Membership Site with Paywall** — WordPress + Restrict Content Pro integration |
+| 🔄 | **Data Sync with External APIs** — Integrated WordPress with CRM system using REST API |
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="#">
+    <img src="https://img.icons8.com/fluency/48/000000/domain.png" alt="Website" width="40" height="40" />
   </a>
-  <a href="https://github.com/awaiskhan20?tab=followers">
-    <img src="https://img.shields.io/github/followers/awaiskhan20?logo=github&style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/awais-khan-487203308/">
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40" />
+  </a>
+  <a href="mailto:awaiskhan.raees123@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" width="40" height="40" />
+  </a>
+  <a href="#">
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="40" height="40" />
+  </a>
+  <a href="#">
+    <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook" width="40" height="40" />
+  </a>
+  <a href="#">
+    <img src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="Twitter" width="40" height="40" />
   </a>
 </p>
 
 ---
 
-# 👨‍💻 About Me
-
-- 🔥 Passionate **WordPress & Frontend Developer**
-- ⚡ Specialized in **Custom Themes, Plugins & WooCommerce**
-- 🎨 Love creating clean, responsive & fast websites
-- 🌱 Currently learning:
-  - React
-  - Headless WordPress
-  - Gutenberg Block Development
-- 💼 Daily Stack:
-  - WordPress
-  - PHP
-  - JavaScript
-  - Tailwind CSS
-  - Elementor
-  - ACF
-- 🎯 Goal: Build premium WordPress plugins & contribute to Open Source.
-
----
-
-# 🚀 Tech Stack
+### 👀 Profile Views
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,wordpress,bootstrap,tailwind,git,github,vscode,figma&perline=6" />
+  <img src="https://komarev.com/ghpvc/?username=awaiskhan20&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-# 🧰 Tools
-
-- WordPress
-- WooCommerce
-- Elementor
-- ACF
-- PHP
-- JavaScript
-- REST API
-- Git
-- GitHub
-- LocalWP
-- XAMPP
-- cPanel
-- phpMyAdmin
-- SEO Optimization
-- Performance Optimization
-
----
-
-# 📊 GitHub Stats
-
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=awaiskhan20&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=awaiskhan20&theme=tokyonight&hide_border=true"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </p>
 
-<p align="center">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awaiskhan20&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=awaiskhan20&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-# 🚀 Featured Projects
-
-### 🛒 WooCommerce Quote Builder
-Custom quotation system using AJAX + ACF.
-
-### 🎨 Elementor Portfolio Theme
-Fast & lightweight portfolio theme.
-
-### 🔐 Membership Website
-Restrict Content Pro integration with custom dashboard.
-
-### 🔄 WordPress CRM Integration
-Connected WordPress with external CRM using REST APIs.
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=awaiskhan20&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/awais-khan-487203308">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:awaiskhan.raees123@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://github.com/awaiskhan20">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
-
----
-
-<h3 align="center">
-✨ Thanks for visiting my profile! ✨
-</h3>
-```
+<p align="center">✨ Thanks for visiting my GitHub! ✨</p>
