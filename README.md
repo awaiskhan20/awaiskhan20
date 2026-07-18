@@ -2,9 +2,11 @@
   <img src="banner.webp" alt="Banner" width="100%" loading="lazy" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Awais Khan</h1>
+<h1 align="center">WEB DEVELOPMENT</h1>
 
-<h3 align="center">A Passionate WordPress & Frontend Developer from Pakistan 🇵🇰</h3>
+<h3 align="center">Hi 👋, I'm Awais Khan</h3>
+
+<h4 align="center">A Passionate WordPress & Frontend Developer from Pakistan 🇵🇰</h4>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=WordPress+Specialist;Frontend+Developer;WooCommerce+Expert;Lifelong+Learner" alt="Typing SVG" />
@@ -16,29 +18,26 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 <table width="100%" style="border: none; background: transparent;">
 <tr>
-<td width="70%" style="border: none; vertical-align: top;">
+<td style="border: none; vertical-align: top;">
 
 - 🔧 I specialize in **WordPress development**, including custom themes, plugins, and WooCommerce customization.
-- 🧠 I'm passionate about clean code, optimized performance, and responsive UI/UX.
+- 🧠 My portfolio boasts clean code, optimized performance, and responsive UI/UX.
 - 🌱 Currently exploring more on **Headless WordPress**, **React**, and **Gutenberg Block Development**.
 - 🛠️ Tools I work with daily: WordPress, ACF, Elementor, JavaScript, Tailwind, PHP.
 - ✍️ I regularly build client websites that convert and perform well.
 - 🎯 Goal for 2025: Contribute to open-source and build my own WordPress plugin.
 
 </td>
-<td width="30%" style="border: none; vertical-align: middle; text-align: center;">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="max-width: 280px; border-radius: 10px;" alt="Coding" />
-</td>
 </tr>
 </table>
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <table width="100%" style="border: none;">
 <tr>
@@ -67,45 +66,15 @@
   <br /><strong>Bootstrap</strong>
 </td>
 <td align="center" style="border: none; padding: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55" alt="TailwindCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55" alt="Tailwind" />
   <br /><strong>Tailwind</strong>
-</td>
-</tr>
-<tr>
-<td align="center" style="border: none; padding: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55" alt="React" />
-  <br /><strong>React</strong>
-</td>
-<td align="center" style="border: none; padding: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="MySQL" />
-  <br /><strong>MySQL</strong>
-</td>
-<td align="center" style="border: none; padding: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="55" height="55" alt="jQuery" />
-  <br /><strong>jQuery</strong>
-</td>
-<td align="center" style="border: none; padding: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="55" height="55" alt="SASS" />
-  <br /><strong>SASS</strong>
-</td>
-<td align="center" style="border: none; padding: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git" />
-  <br /><strong>Git</strong>
-</td>
-<td align="center" style="border: none; padding: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub" />
-  <br /><strong>GitHub</strong>
-</td>
-<td align="center" style="border: none; padding: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55" alt="VS Code" />
-  <br /><strong>VS Code</strong>
 </td>
 </tr>
 </table>
 
 ---
 
-### 🧰 Tools & Platforms
+### Tools & Platforms
 
 <table width="100%" style="border: none;">
 <tr>
@@ -132,7 +101,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <table width="100%" style="border: none;">
 <tr>
@@ -150,15 +119,7 @@
 
 ---
 
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=awaiskhan20&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" alt="Activity Graph" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
+### GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=awaiskhan20&theme=radical&no-frame=true&no-bg=true&row=1&column=6" width="100%" alt="GitHub Trophies" />
@@ -189,7 +150,7 @@
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
 <table width="100%" style="border: none;">
 <tr>
@@ -213,8 +174,8 @@
 </td>
 <td align="center" style="border: none; padding: 10px;">
   <a href="#">
-    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="45" height="45" />
-    <br /><strong>Instagram</strong>
+    <img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" alt="Telegram" width="45" height="45" />
+    <br /><strong>Telegram</strong>
   </a>
 </td>
 <td align="center" style="border: none; padding: 10px;">
@@ -234,7 +195,7 @@
 
 ---
 
-### 👀 Profile Views
+### Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=awaiskhan20&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
