@@ -63,11 +63,11 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=awaiskhan20&show_icons=true&theme=radical" height="140" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=awaiskhan20&show_icons=true&theme=radical" height="135" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=awaiskhan20&theme=radical" height="140" alt="Github Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=awaiskhan20&theme=radical" height="135" alt="Github Stats" />
   &nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=awaiskhan20&layout=compact&theme=radical" height="140" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=awaiskhan20&layout=compact&theme=radical" height="135" alt="Top Languages" />
 </div>
 
 
