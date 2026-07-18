@@ -74,3 +74,20 @@
 ---
 
 ### 🚀 Highlight Projects
+
+- 🖥️ **Custom WooCommerce Quote Builder** — Built a request system for B2B clients using AJAX + ACF  
+- 📦 **Elementor Portfolio Theme** — Lightweight, fast-loading portfolio for creatives  
+- 🔐 **Membership Site with Paywall** — WordPress + Restrict Content Pro integration  
+- 🔄 **Data Sync with External APIs** — Integrated WordPress with CRM system using REST API
+
+---
+
+### 📫 Let's Connect
+
+- 🌐 [Portfolio Website](#) — *(Add your portfolio URL here)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/awais-khan-487203308/)  
+- 📧 Email: awaiskhan.raees123@gmail.com
+
+---
+
+<p align="center">✨ Thanks for visiting my GitHub! ✨</p>
